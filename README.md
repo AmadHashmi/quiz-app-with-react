@@ -2,8 +2,8 @@
 
 Quiz App With React
 
-https://./screenshots/screenshot1.png
-https://./screenshots/screenshot2.png
+![App Screenshot 1](./screenshots/screenshot1.png)
+![App Screenshot 2](./screenshots/screenshot2.png)
 
 ## Table of Contents
 
