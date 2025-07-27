@@ -13,18 +13,6 @@ Quiz App With React
 
 - Installation
 
-- Usage
-
-- Technologies Used
-
-- Folder Structure
-
-- Available Scripts
-
-- Contributing
-
-- License
-
 ### Description
 
 It's a simple application creating following a course from Udemy. It uses basic react features, like useState, useEffect, useRef.
